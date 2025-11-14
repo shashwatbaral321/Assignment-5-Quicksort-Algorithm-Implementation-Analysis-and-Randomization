@@ -1,0 +1,10 @@
+input_type,input_size,deterministic_time_ms,randomized_time_ms
+random,1000,5.2,4.1
+random,5000,27.8,22.6
+random,10000,59.3,48.9
+sorted,1000,12.5,4.3
+sorted,5000,89.1,23.0
+sorted,10000,210.4,49.2
+reverse,1000,14.2,4.5
+reverse,5000,95.7,23.4
+reverse,10000,230.9,50.1
